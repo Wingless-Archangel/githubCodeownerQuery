@@ -1,0 +1,1 @@
+# Github CODEOWNERS Query
